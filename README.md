@@ -12,7 +12,7 @@
    
   - 🔭 I’m currently study on UFPB, Science Computing
 
-  - 🌱 I’m currently learning **Angular, Typescript, NodeJS, Mysql**
+  - 🌱 I’m currently learning **Angular, Typescript, NodeJS, Mysql, Security**
 
   - 👨‍💻 All of my projects are available at [https://github.com/nathanjfa](https://github.com/nathanjfa)
 
